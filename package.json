@@ -1,7 +1,7 @@
 {
-  "name": "mystory",
+  "name": "parodifood",
   "version": "1.0.0",
-  "description": "Project Cypress",
+  "description": "Automção de teste com cypress",
   "main": "index.js",
   "devDependencies": {
     "cypress": "^8.7.0",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m4teuss/mystory-cypress.git"
+    "url": "git+https://github.com/R3inald0/Parodifood.git"
   },
-  "author": "Mateus Silva",
+  "author": "Reinaldo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/m4teuss/mystory-cypress/issues"
+    "url": "https://github.com/R3inald0/Parodifood/issues"
   },
-  "homepage": "https://github.com/m4teuss/mystory-cypress#readme"
+  "homepage": "https://github.com/R3inald0/Parodifood#readme"
 }
